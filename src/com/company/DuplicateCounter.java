@@ -11,7 +11,6 @@ import java.util.Scanner;
 import java.util.*;
 
    public class DuplicateCounter {
-
     private Map<String,Integer> wordCounter;
 
     public void count(String dataFile) throws FileNotFoundException
